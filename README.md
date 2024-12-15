@@ -66,10 +66,6 @@
   
 </p>
 
-<h3>Final Model Summary</h3>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/8439a549-8b27-4cf7-beb3-7ab34d5390b4" alt="Final Model Summary">
-</p>
 
 ---
 
