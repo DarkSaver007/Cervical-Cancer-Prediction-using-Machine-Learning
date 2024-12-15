@@ -1,5 +1,8 @@
 <h1 align="center">Cervical Cancer Prediction using Machine Learning</h1>
 
+
+<h2>Paper Publised</h2> Paper : <a href="https://ieeexplore.ieee.org/abstract/document/10725056" target="_blank">Read Our Paper</a>
+
 <h2>Objective</h2>
 <p>To evaluate the public health impact of the predictive model by assessing its ability to reduce the incidence of cervical cancer and associated mortality rates.</p>
 
